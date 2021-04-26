@@ -52,9 +52,9 @@ for(i=1;i<carGroup1.length;i++){
   }
 }
  
-for(var i = 0; i<1; i++){
+
   player = new Player(width/2,height-25);
-}
+
    
  }
 
