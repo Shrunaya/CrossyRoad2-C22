@@ -16,7 +16,7 @@ function setup() {
   carGroup1 = new Group();
   logGroup1 = new Group();
   
-  player = new Player();
+  
   
 for(var i = 0; i<6; i++){
   var bottomGrass1 = createSprite(683,height-50-(i*400),width,grassHeight);
